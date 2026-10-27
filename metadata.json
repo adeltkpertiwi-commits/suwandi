@@ -1,0 +1,6 @@
+{
+  "name": "MATH AIR FORCE: EXPONENT MISSION",
+  "description": "Game edukasi pesawat tempur matematika SMK Kelas X Fase E materi sifat-sifat bilangan berpangkat oleh Suwandi, S.Pd. SMKN 4 Soppeng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
